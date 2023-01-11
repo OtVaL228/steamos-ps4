@@ -10,7 +10,7 @@ Jailbroken PS4
 
 Kernel 5.x or later with working internet and vulkan for gamescope
 
-Any drive with 16GB capacity or best
+Any drive with 16GB capacity or better
 # Installation
 Format your drive as FAT32 and copy bzImage, intramfs.cpio.gz and SteamOS.tar.xz to the root of the USB drive that you just formatted.
 
