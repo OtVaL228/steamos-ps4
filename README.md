@@ -27,4 +27,11 @@ Type steamos-session-select plasma to start KDE Plasma or steamos-session-select
 
 Press CTRL + ALT + F1 and you will be switch to KDE Plasma
 # Screenshots
-to do...
+
+![Screenshot_20230114_135609](https://user-images.githubusercontent.com/87971581/212470628-6d6d45b8-ee94-4bd8-b369-b95e30b61df8.png)
+
+![Screenshot_20230114_135631](https://user-images.githubusercontent.com/87971581/212470631-ad886108-db64-421d-a517-37250a6ce15d.png)
+
+![Screenshot_20230114_135758](https://user-images.githubusercontent.com/87971581/212470638-eac06800-e3ab-46ca-8592-049364aaf64a.png)
+
+![Screenshot_20230114_135906](https://user-images.githubusercontent.com/87971581/212470646-e26b8b39-a351-4c6e-a2a6-27638df6b330.png)
