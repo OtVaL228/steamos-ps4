@@ -35,3 +35,6 @@ Press CTRL + ALT + F1 and you will be switch to KDE Plasma
 ![Screenshot_20230114_135758](https://user-images.githubusercontent.com/87971581/212470638-eac06800-e3ab-46ca-8592-049364aaf64a.png)
 
 ![Screenshot_20230114_135906](https://user-images.githubusercontent.com/87971581/212470646-e26b8b39-a351-4c6e-a2a6-27638df6b330.png)
+
+![Screenshot_20230116_073418](https://user-images.githubusercontent.com/87971581/212605676-95df1dd4-57f0-4013-b9cf-ce064c1b561b.png)
+
