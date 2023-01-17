@@ -5,7 +5,7 @@ Tested on PlayStation 4 Slim CUH-2216A
 1. ~~gamescope session not working. Launch it from KDE Plasma use this guide: https://ps4linux.com/steam-deck-ui-ps4-linux/~~ Will be fixed in 0.2 release 
 2. Sound in gamescope not working but it working in games
 3. Sometimes system failed to load due to systemd errors. In this case just reboot
-4. ~~Vulkan is broken.~~ Will be fixed in 0.2 release 
+4. ~~Vulkan is broken.~~ Will be fixed in 0.1.1 release 
 # Requirements
 Jailbroken PS4
 
